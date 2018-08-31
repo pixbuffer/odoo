@@ -1,5 +1,6 @@
 version: '2'
 services:
+  # v3.3.4
   web:
     image: odoo:10.0
     depends_on:
